@@ -1,0 +1,1 @@
+worker: python Nova_WX.py
