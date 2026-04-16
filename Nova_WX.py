@@ -4,7 +4,8 @@ import urllib.parse
 from discord.ext import commands, tasks
 from discord import app_commands
 
-TOKEN = "MTQ5MzMxNjkxMjY5OTE1MDUwOA.GCmuSF.zr8iNVcAdhUamVOgDIdxPkIWeWsJE0zHDcqmV0"
+import os
+TOKEN = os.getenv (MTQ5MzMxNjkxMjY5OTE1MDUwOA.GddvFP.MoilHvY1ILOGEycFm4hyntG9KJv6Fb50GMRwF8)
 
 # =========================
 # ALERT SETTINGS
